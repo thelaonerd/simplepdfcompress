@@ -1,0 +1,8 @@
+# Binaries
+bin/
+simplepdfcompress
+simplepdfcompress.exe
+
+# OS specific
+.DS_Store
+Thumbs.db
