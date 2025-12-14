@@ -11,7 +11,7 @@ SimplePDFCompress is a fast, efficient, and user-friendly desktop application fo
     *   Uses your system's default font (Linux) for a native look.
     *   Native file dialogs for a familiar experience.
 *   **Multi-threaded**: Utilizes your CPU cores responsibly for fast batch processing.
-*   **Cross-Platform**: Runs on Linux, Windows, and macOS.
+*   **Cross-Platform**: Runs on Linux [verified], Windows [unverified], and macOS [unverified].
 
 ## How to Use
 
