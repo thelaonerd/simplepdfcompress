@@ -55,6 +55,7 @@ brew install ghostscript
 1.  Download the **Ghostscript AGPL Release** (files named `gs...exe`) from the [official website](https://ghostscript.com/releases/gsdnld.html).
 2.  Install the version matching your system (usually 64-bit).
 3.  **Important**: Ensure the installer adds Ghostscript to your system `PATH` environment variable so the application can find it.
+4.  For windows RDP sessions, running based on what I read on the forums https://downloads.fdossena.com/geth.php?r=mesa64-latest is needed to execute the application.  
 
 ---
 
