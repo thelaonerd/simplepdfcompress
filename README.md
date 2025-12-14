@@ -11,7 +11,7 @@ SimplePDFCompress is a fast, efficient, and user-friendly desktop application fo
     *   Uses your system's default font (Linux) for a native look.
     *   Native file dialogs for a familiar experience.
 *   **Multi-threaded**: Utilizes your CPU cores responsibly for fast batch processing.
-*   **Cross-Platform**: Runs on Linux [verified], Windows [unverified], and macOS [unverified].
+*   **Cross-Platform**: Runs on Linux [verified], Windows [verified in RDP with opengl32.dll in the same folder], and macOS [unverified].
 
 ## How to Use
 
@@ -55,7 +55,7 @@ brew install ghostscript
 1.  Download the **Ghostscript AGPL Release** (files named `gs...exe`) from the [official website](https://ghostscript.com/releases/gsdnld.html).
 2.  Install the version matching your system (usually 64-bit).
 3.  **Important**: Ensure the installer adds Ghostscript to your system `PATH` environment variable so the application can find it.
-4.  For windows RDP sessions, running based on what I read on the forums https://downloads.fdossena.com/geth.php?r=mesa64-latest is needed to execute the application.  
+4.  For windows RDP sessions, running required opengl32.dll and can be downloaded from https://downloads.fdossena.com/geth.php?r=mesa64-latest. This is needed to execute the application in RDP sessions.  
 
 ---
 
